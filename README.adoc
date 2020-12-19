@@ -1,0 +1,5 @@
+== Copilot
+
+https://www.fulcrologic.com/copilot[Copilot] is a commercial product of Fulcrologic, LLC.
+
+This repository is used for public discussions and issue tracking.
